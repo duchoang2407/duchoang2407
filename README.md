@@ -12,12 +12,6 @@
   I am passionate about front-end development with some expertise in:
 </h2>
 
-<h2 align="center" style="color: #36BCF7; font-weight: bold; font-size: 30px; margin-bottom: 10px;">
-  🚀 My Skills:
-</h2>
-<h3 align="center" style="font-size: 26px; margin-bottom: 40px;">
-  React, TypeScript, TailWind, HTML, CSS
-</h3>
 
 <h2 align="center" style="color: #FFBD33; font-size: 28px; margin-bottom: 40px;">
   🎨 I have a certain understanding of Figma and UI
