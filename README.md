@@ -6,7 +6,7 @@
 <hr >
 <h3 align="center">My goal: to become a full-stack developer</h3>
 
-###
+<hr >
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
