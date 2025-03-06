@@ -1,25 +1,21 @@
 <div align="center">
+  <h1 style="font-size: 42px; font-weight: bold;">Hi 👋! My name is <span style="color: #36BCF7;">duchoang2407</span></h1>
   
-  <h3>Hi 👋! My name is duchoang2407</h3>
   <div>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=36BCF7&center=true&width=700&lines=Coffee+Lover+%E2%98%95" alt="Typing SVG" />
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=36BCF7&center=true&width=700&lines=Coffee+Lover+%E2%98%95" alt="Typing SVG" />
+  </div>
+
   <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J4dmluMnhxajE2amV5bmp1aDdidnkxZXp2bHZuaXltMnZwZ3QxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ex5WFJM3hioHAIu5Vy/giphy.gif" />
 </div>
 
-<h3 align="center">I am passionate about front-end development with some expertise in:</h3>
+<h2 align="center" style="color: #FF5733; font-weight: bold;">I am passionate about front-end development with some expertise in:</h2>
 
-<h3 align="center">My skills: React, TypeScript, TailWind, HTML, CSS</h3>
+<h2 align="center" style="color: #36BCF7; font-weight: bold;">My Skills:</h2>
+<h3 align="center" style="font-size: 24px;">🚀 React, TypeScript, TailWind, HTML, CSS</h3>
 
-<h3 align="center">I have a certain understanding of Figma and UI</h3>
+<h2 align="center" style="color: #FFBD33;">I have a certain understanding of Figma and UI</h2>
 
-<h3 align="center">My goal: Become a full-stack developer</h3>
-
-
-
-
-
-
+<h2 align="center" style="color: #4CAF50;">🎯 My Goal: <strong>Become a Full-Stack Developer</strong></h2>
 
 
 <hr >
