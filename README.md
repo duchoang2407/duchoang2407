@@ -27,9 +27,9 @@
   🎯 My Goal: <strong>Become a Full-Stack Developer</strong>
 </h2>
 
-<hr style="margin: 50px 0;">
-
-<h3 align="center" style="font-size: 28px; color: #FF5733;">💻 Tech Stack</h3>
+<h2 align="center" style="font-size: 28px; color: #FF5733; margin-bottom: 30px;">
+  💻 Tech Stack
+</h2>
 <div align="center" style="margin-bottom: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="20" />
@@ -50,18 +50,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </div>
 
-<hr style="margin: 50px 0;">
-
-<h3 align="center" style="font-size: 28px; color: #36BCF7;">📬 Contact Me</h3>
+<h2 align="center" style="font-size: 28px; color: #36BCF7; margin-bottom: 30px;">
+  📬 Contact Me
+</h2>
 <div align="center" style="margin-bottom: 50px;">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" />
   <img width="20" />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" />
 </div>
 
-<hr style="margin: 50px 0;">
-
-<h3 align="center" style="font-size: 28px; color: #4CAF50;">📊 GitHub Stats</h3>
+<h2 align="center" style="font-size: 28px; color: #4CAF50; margin-bottom: 30px;">
+  📊 GitHub Stats
+</h2>
 <div align="center" style="margin-bottom: 50px;">
   <img src="https://github-readme-stats.vercel.app/api?username=duchoang2407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
   <img width="20" />
