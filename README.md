@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-    
-
 I am passionate about front-end development with some expertise in: React, TypeScript, TailWind, HTML, CSS And have a certain understanding of Figma and Ui My goal: to become a full-stack developer
 
 *   ✉️  You can contact me at [hoangndse184443@fpt.edu.vn](mailto:hoangndse184443@fpt.edu.vn)### Skills 
