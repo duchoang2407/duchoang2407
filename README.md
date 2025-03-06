@@ -83,8 +83,20 @@
 <h2 align="center" style="font-size: 28px; color: #4CAF50; margin-bottom: 30px;">
   📊 GitHub Stats
 </h2>
-<div align="center" style="margin-bottom: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=duchoang2407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
+<div align="center" style="margin-bottom: 80px;">
+  <a href="http://www.github.com/duchoang2407">
+    <img src="https://github-readme-stats.vercel.app/api?username=duchoang2407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" />
+  </a>
+  
   <img width="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoang2407&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" />
+  
+  <a href="http://www.github.com/duchoang2407">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoang2407&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" />
+  </a>
+
+  <br /><br />
+
+  <a href="http://www.github.com/duchoang2407">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duchoang2407&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="180" />
+  </a>
 </div>
