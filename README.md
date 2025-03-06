@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👋! My name is duchoang2407 <br>.<br>I am passionate about front-end development with some expertise in:<br>React, TypeScript, TailWind, HTML, CSS<br>And have a certain understanding of Figma and Ui<br>.<br>My goal: to become a full-stack developer</h3>
 
+<hr />
+
 ###
 
 <div align="center">
