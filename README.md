@@ -1,5 +1,7 @@
+<div>
 <h3 align="center">Hi 👋! My name is duchoang2407</h3>
-
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J4dmluMnhxajE2amV5bmp1aDdidnkxZXp2bHZuaXltMnZwZ3QxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ex5WFJM3hioHAIu5Vy/giphy.gif"  />
+</div>
 <hr >
 
 <h3 align="center">I am passionate about front-end development with some expertise in:</h3>
@@ -14,7 +16,7 @@
 
 
 
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J4dmluMnhxajE2amV5bmp1aDdidnkxZXp2bHZuaXltMnZwZ3QxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ex5WFJM3hioHAIu5Vy/giphy.gif"  />
+
 
 <hr >
 
