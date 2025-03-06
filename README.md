@@ -74,13 +74,7 @@
 <h2 align="center" style="font-size: 28px; color: #36BCF7; margin-bottom: 30px;">
   📬 Contact Me
 </h2>
-<div align="center" style="margin-bottom: 50px;">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  <img width="20" />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-</div>
-
-<h2 align="center" style="font-size: 28px; color: #4CAF50; margin-bottom: 30px;">
+le="font-size: 28px; color: #4CAF50; margin-bottom: 30px;">
   📊 GitHub Stats
 </h2>
 <div align="center">
