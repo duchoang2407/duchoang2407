@@ -1,16 +1,18 @@
-<div>
-<h3 align="left">Hi 👋! My name is duchoang2407</h3>
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J4dmluMnhxajE2amV5bmp1aDdidnkxZXp2bHZuaXltMnZwZ3QxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ex5WFJM3hioHAIu5Vy/giphy.gif"  />
+<div align="center">
+  <h3>Hi 👋! My name is duchoang2407</h3>
+  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2J4dmluMnhxajE2amV5bmp1aDdidnkxZXp2bHZuaXltMnZwZ3QxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ex5WFJM3hioHAIu5Vy/giphy.gif" />
 </div>
 
+<h3 align="center">I am passionate about front-end development with some expertise in:</h3>
 
-<h3 align="left">I am passionate about front-end development with some expertise in:</h3>
+<h3 align="center">My skills: React, TypeScript, TailWind, HTML, CSS</h3>
 
-<h3 align="left">my skills: React, TypeScript, TailWind, HTML, CSS</h3>
+<h3 align="center">I have a certain understanding of Figma and UI</h3>
 
-<h3 align="left">And have a certain understanding of Figma and UI</h3>
+<h3 align="center">My goal: Become a full-stack developer</h3>
 
-<h3 align="left">My goal: Become a full-stack developer</h3>
+<hr>
+
 
 
 
