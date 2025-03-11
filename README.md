@@ -1,4 +1,3 @@
-<!-- README.md -->
 
 ### 🎨 **UI/UX & Frontend Developer**  
 > Passionate about crafting **modern, responsive, and accessible** web experiences.  
@@ -56,4 +55,3 @@ Focusing on mastering **backend technologies** to build scalable web application
   </a>
 </div>
 
----
