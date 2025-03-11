@@ -12,9 +12,9 @@
   🚀 Passionate Frontend Developer
 </h2>
 
-<h2 align="center" style="color: #36BCF7; font-size: 30px; font-weight: bold; margin-bottom: 20px;">
+<h1 align="center" style="color: #36BCF7; font-size: 30px; font-weight: bold; margin-bottom: 20px;">
   🔥 Skills & Expertise
-</h2>
+</h1>
 <p align="center" style="font-size: 24px; font-weight: bold; margin-bottom: 40px;">
   React • TypeScript • Tailwind CSS • HTML • CSS
 </p>
