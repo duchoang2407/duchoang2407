@@ -43,9 +43,14 @@ Focusing on mastering **backend technologies** to build scalable web application
 
 ### 💌 **Contact Me**  
 <div align="center">
-  <a href="meme91men@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="45" />
-  </a>
+  <a href="mailto:meme91men@gmail.com">
+  <img 
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
+    height="45" 
+    alt="Email"
+  />
+</a>
+
   <a href="https://www.facebook.com/profile.php?id=100081094806494">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="45" />
   </a>
