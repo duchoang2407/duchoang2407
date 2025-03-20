@@ -15,6 +15,30 @@
 </p>
 
 ---
+
+
+<h3 align="left" style="font-size: 40px; border-bottom: none;">🌍 About Me</h3>
+
+
+<p align="left">
+  👋 Hi, I'm <strong>DucHoang2407</strong>! A passionate <strong>Frontend Developer</strong> from <img src="https://cdn-icons-png.flaticon.com/32/323/323319.png" width="16"/> <strong>Vietnam</strong>.
+</p>
+
+<p align="left">
+  🔹 I love working with <strong>React, TypeScript, and Tailwind CSS</strong> to craft stunning web experiences.  
+  <br/>
+  🔹 Currently exploring <strong>backend technologies</strong> to become a <strong>Full-Stack Developer</strong>. 🚀
+</p>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Code-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Style-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Language-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+
+
+---
 <h3 style="border-bottom: none">🚀 Tech Stack </h3>
 
 <h3 align="center">🔹 Technologies I use to build stunning web applications.</h3>
@@ -53,9 +77,9 @@
 
 <h3 style="border-bottom: none">📊 GitHub Stats</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=duchoang2407&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoang2407&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duchoang2407&theme=radical&hide_border=true" height="190" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duchoang2407&show_icons=true&theme=radical&count_private=true&hide_border=true" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoang2407&layout=compact&theme=radical&hide_border=true" height="200" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duchoang2407&theme=radical&hide_border=true" height="200" alt="GitHub Streak" />
 </p>
 
 ---
