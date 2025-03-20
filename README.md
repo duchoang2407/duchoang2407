@@ -52,7 +52,7 @@
 
 
 <h3 style="border-bottom: none">📊 GitHub Stats</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=duchoang2407&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=duchoang2407&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duchoang2407&theme=radical&hide_border=true" height="190" alt="GitHub Streak" />
